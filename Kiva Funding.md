@@ -40,7 +40,7 @@ Proyek ini bertujuan untuk melakukan Exploratory Data Analyst (EDA) terhadap dat
 
 ## 5. Tableau Public
 
-[Tableau](https://public.tableau.com/views/KivaFunding_17419421253730/DashboardRepaymentInterval?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau](https://public.tableau.com/views/KivaFunding_17419421253730/DashboardMain?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
